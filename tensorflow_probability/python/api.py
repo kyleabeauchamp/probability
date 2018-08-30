@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ============================================================================
-"""Monte Carlo integration and helpers."""
+"""Higher level API for Bayesian Inference."""
 
 from __future__ import absolute_import
 from __future__ import division
